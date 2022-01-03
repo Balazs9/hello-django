@@ -1,3 +1,4 @@
+*.squlite3
 core.Microsoft*
 core.mongo*
 core.python*
